@@ -1,10 +1,10 @@
-# 📘 NikoShare
+# 📘 NikoShare (Minecraft 26.2)
 
 [**Русский**](README.md) | [**English**](README_EN.md)
 
 **NikoShare** — система обмена ресурс-паками, шейдерпаками и модами прямо в игре через письменные книги.
 
-📥 **[Скачать последнюю версию для Fabric 26.2](https://github.com/nikomia/NikoShare/releases/download/share/NikoShare.jar)**
+📥 **[Скачать последнюю версию для Fabric (NikoShare.jar)](https://github.com/nikomia/NikoShare/releases/download/share/NikoShare.jar)**
 
 > 📌 **Требования**: Для работы клиентского мода необходима библиотека [**Fabric API**](https://modrinth.com/mod/fabric-api).
 
@@ -35,7 +35,7 @@
    - **`#RP`** или **`#NikoShare`** — Ссылка на `.zip` ресурс-пака
    - **`#Shader`** или **`#SP`** — Ссылка на `.zip` шейдерпака
    - **`#Mod`** или **`#MP`** — Ссылка на `.jar` мода
-3. *(Опционально)* На второй странице укажите описание.
+3. *(Опционально)* На второй странице укажите описание *(поддерживаются цветовые коды `&`, например `&a`, `&e`, `&l`)*.
 4. Подпишите книгу и передайте игроку или поставьте на кафедру (**Lectern**).
 
 ---

@@ -1,10 +1,10 @@
-# 📘 NikoShare
+# 📘 NikoShare (Minecraft 26.2)
 
 [**Русский**](README.md) | [**English**](README_EN.md)
 
 **NikoShare** is a system for sharing resource packs, shader packs, and mods directly in-game using written books.
 
-📥 **[Download Latest Fabric Version](https://github.com/nikomia/NikoShare/releases/download/share/NikoShare.jar)**
+📥 **[Download Latest Fabric Version (NikoShare.jar)](https://github.com/nikomia/NikoShare/releases/download/share/NikoShare.jar)**
 
 > 📌 **Requirements**: The client mod requires the [**Fabric API**](https://modrinth.com/mod/fabric-api) library.
 
@@ -35,8 +35,8 @@
    - **`#RP`** or **`#NikoShare`** — Link to a resource pack `.zip`
    - **`#Shader`** or **`#SP`** — Link to a shader pack `.zip`
    - **`#Mod`** or **`#MP`** — Link to a mod `.jar`
-3. *(Optional)* Specify a description on the second page.
-4. Sign the book and give it to a player or place it on a **Lectern**.
+3. *(Optional)* Specify a description on the second page *(supports `&` color codes, e.g. `&a`, `&e`, `&l`)*.
+4. Sign the book and open it!
 
 ---
 
