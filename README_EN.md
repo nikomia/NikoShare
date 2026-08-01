@@ -4,6 +4,8 @@
 
 **NikoShare** is a system for sharing resource packs, shader packs, and mods directly in-game using written books.
 
+> 📌 **Requirements**: The client mod requires the [**Fabric API**](https://modrinth.com/mod/fabric-api) library.
+
 > 💡 **Component Independence**: The mod and plugin work both together and completely separately:
 > - **Mod (Fabric)** can be used in singleplayer or on any server without the plugin installed.
 > - **Plugin (Paper)** can be installed on a server without the mod — players without the client mod will see a convenient clickable download link directly inside the book.
