@@ -4,7 +4,7 @@
 
 **NikoShare** — система обмена ресурс-паками, шейдерпаками и модами прямо в игре через письменные книги.
 
-📥 **[Скачать последнюю версию для Fabric (NikoShare.jar)](https://github.com/nikomia/NikoShare/releases/download/share/NikoShare.jar)**
+📥 **[Скачать последнюю версию для Fabric](https://github.com/nikomia/NikoShare/releases/download/share/NikoShare.jar)**
 
 > 📌 **Требования**: Для работы клиентского мода необходима библиотека [**Fabric API**](https://modrinth.com/mod/fabric-api).
 
