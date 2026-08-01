@@ -1,4 +1,4 @@
-# 📘 NikoShare (Minecraft 26.2)
+# 📘 NikoShare
 
 [**Русский**](README.md) | [**English**](README_EN.md)
 
