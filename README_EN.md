@@ -16,20 +16,18 @@
 
 ## 🎮 Mod Features (Fabric)
 
-- 🚀 **Instant download when opening a signed book with a hashtag.**
-- 📦 **Resource Pack Auto-Activation**: Resource packs are downloaded with a top-right progress banner (`0% -> 100%`) and activated immediately without restarting the game.
-- ⏱️ **Socket Timeout Protection**: Automatic stream cancellation on stall or connection drop (10s read timeout).
-- 🔔 **Independent Toast Banners (SystemToast)**: Notifications for different files spawn separately without overwriting each other.
+- 🚀 **Instant Download**: Automatically downloads the pack or mod when opening a signed hashtag book.
+- 📦 **Resource Pack Auto-Activation**: Resource packs are enabled immediately after downloading without restarting the game.
+- 🔔 **Clean Progress Notifications**: Displays a top-right progress banner (`0% -> 100%`) while downloading.
 
 ---
 
 ## 🛠️ Plugin Features (Paper)
 
-- 📡 **Server Auto-Resourcepack on Join (`auto-resourcepack`)**: Sends pack URLs over `nikoshare:auto_pack` custom network payload with silent background update checking.
-- 🔄 **Config Reload Command (`/nikoshare reload`)**: Reload plugin configuration instantly without server restarts.
-- 🔒 **Permission-based Book Signing Protection**: Restrict rights to create books with resource packs, shaders, and mods.
-- 🔗 **Automatic Link Clickability**: All links (`http://` / `https://`) in standard written books become clickable for players without the mod.
-- 🎨 **Configurable Link Formatting**: Customize link color, underline, and italics in `config.yml`.
+- 📡 **Server Auto-Resourcepack**: Automatically sends the server resource pack to players when joining.
+- 🔗 **Clickable Links**: Converts links in books into convenient clickable buttons (works even for players without the mod!).
+- 🔒 **Permission Protection**: Restrict rights to create books with resource packs, shaders, and mods.
+- 🔄 **Reload Without Restarts**: The `/nikoshare reload` command updates plugin settings on the fly.
 
 ---
 
@@ -92,5 +90,5 @@ require-permissions:
 
 Configured via **ModMenu** or directly in `config/nikoshare.json`:
 
-- **Check for updates** (`checkUpdates: true/false`) — Fast update check via `version.json` on GitHub.
+- **Check for updates** (`checkUpdates: true/false`) — Automatic update check for new versions.
 - **Max file size warning** (`maxFileSizeMb: 50`) — File size threshold in MB before showing confirmation prompt in chat.
